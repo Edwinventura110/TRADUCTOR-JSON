@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-repeat: no-repeat;
+}
+
+.main{
+	background-attachment: scroll;
+	background-size: cover;
+background: #D080AD;
+background: -webkit-linear-gradient(top left, #D080AD, #7882CA);
+background: -moz-linear-gradient(top left, #D080AD, #7882CA);
+background: linear-gradient(to bottom right, #D080AD, #7882CA);
+min-height: 100vh;
+}
+
+
+p{
+	color: white;
+	margin-top: 40px;
+}
+
+.translate{
+	margin-top: 100px;
+	text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	background-color: #008CBA;
+	width: 240px;
+	height: 60px;
+}
